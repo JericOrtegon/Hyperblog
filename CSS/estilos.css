@@ -7,6 +7,15 @@ body
     margin: 0;
     padding: 0;
 }
+
+#cabecera
+{
+    background: blueviolet;
+    box-shadow: blanchedalmond;
+    color: beige;
+    margin: 0;
+    padding: 0.5em;
+}
 #container
 {
     width: 70%;
